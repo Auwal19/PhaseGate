@@ -1,6 +1,16 @@
 
 const prompt = require("prompt-sync")();
 
+console.log(`
+=============================
+   WELCOME LAGBAJA SCHOOL
+=============================
+`);
+
+
+
+
+
 function main() {
 
     let numberOfStudent = Number(prompt("How many Student do you have: "));
